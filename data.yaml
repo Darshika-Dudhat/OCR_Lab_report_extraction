@@ -1,0 +1,5 @@
+train: data/images/train
+val: data/images/val
+
+nc: 5
+names: ["PATIENT_NAME","TEST_NAME", "VALUE", "UNIT", "RANGE"]
